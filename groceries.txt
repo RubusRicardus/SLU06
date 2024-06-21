@@ -3,4 +3,5 @@ flour
 milk 
 eggs 
 sunflower oil
-sugar 
+sugar
+almonds 
