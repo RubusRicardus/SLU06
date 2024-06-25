@@ -3,7 +3,7 @@ flour
 milk 
 eggs 
 sunflower oil
-sugar 
+sweetener 
 toilet paper
 almonds 
 
