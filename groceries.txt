@@ -1,13 +1,7 @@
 butter
 flour 
+ice cream
 milk 
 eggs 
-sunflower oil
-sweetener 
-toilet paper
-almonds 
-olives
-moisturizer 
-handsoap
-sunscreen 
+
 
