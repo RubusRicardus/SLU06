@@ -7,4 +7,6 @@ sweetener
 toilet paper
 almonds 
 moisturizer 
+handsoap
+sunscreen 
 
