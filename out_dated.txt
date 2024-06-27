@@ -1,1 +1,1 @@
-check it you local repo is not outdated! 
+check it you local repo is updated! 
